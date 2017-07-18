@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\gokay\documents\visual studio 2015\projects\bacteriahabitat\bacteriahabitat\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\gokay\documents\visual studio 2015\projects\bacteriahabitat\bacteriahabitat\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\gokay\documents\visual studio 2015\projects\bacteriahabitat\bacteriahabitat\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\gokay\documents\visual studio 2015\projects\bacteriahabitat\bacteriahabitat\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  BacteriaHabitat.vcxproj -> C:\Users\gokay\Documents\Visual Studio 2015\Projects\BacteriaHabitat\Debug\BacteriaHabitat.exe
+  BacteriaHabitat.vcxproj -> C:\Users\gokay\Documents\Visual Studio 2015\Projects\BacteriaHabitat\Debug\BacteriaHabitat.pdb (Full PDB)
